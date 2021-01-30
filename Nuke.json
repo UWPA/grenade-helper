@@ -1,0 +1,188 @@
+{
+  "de_nuke": [
+    {
+      "name": ["Outside", "Garage"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-163.78726196289, -1954.9538574219, -415.96875],
+      "viewangles": [-12.827858924866, 0.53340947628021]
+    },
+    {
+      "name": ["Ouside", "Cross"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-499.99426269531, -1638.2501220703, -415.96875],
+      "viewangles": [-4.7967557907104, -51.908432006836],
+      "grenade": {
+        "run": 20
+      }
+    },
+    {
+      "name": ["Outside", "Wallsmoke 1"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-353.97067260742, -1856.7727050781, -415.96875],
+      "viewangles": [-16.243799209595, -16.716051101685]
+    },
+    {
+      "name": ["Outside", "Wallsmoke2"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-423.26455688477, -1753.041015625, -415.96875],
+      "viewangles": [-18.107109069824, -15.187083244324]
+    },
+    {
+      "name": ["Outside", "Container"],
+      "weapon": "weapon_molotov",
+      "position": [-58.312580108643, -2040.8753662109, -415.96875],
+      "viewangles": [-11.116428375244, 13.8106508255],
+      "grenade": {
+        "run": 20
+      }
+    },
+    {
+      "name": ["Outside", "Secret"],
+      "weapon": "weapon_molotov",
+      "position": [176.36471557617, -2037.4013671875, -415.96875],
+      "viewangles": [-17.056377410889, -17.073534011841]
+    },
+    {
+      "name": ["Outside", "Main"],
+      "weapon": "weapon_smokegrenade",
+      "position": [305.03125, -2011.9973144531, -415.96881103516],
+      "viewangles": [-10.055045127869, 14.275983810425],
+      "grenade": {
+        "run": 20
+      }
+    },
+    {
+      "name": ["Outside", "Hut"],
+      "weapon": "weapon_molotov",
+      "position": [15.8792552948, -937.92041015625, -21.968757629395],
+      "viewangles": [-8.5150098800659, -36.213623046875],
+      "grenade": {
+        "run": 5
+      }
+    },
+    {
+      "name": ["Trophy", "Ramp"],
+      "weapon": "weapon_smokegrenade",
+      "position": [251.96873474121, -449.96875, -415.96875],
+      "viewangles": [-7.2097935676575, 126.84772491455],
+      "grenade": {
+        "run": 20
+      }
+    },
+    {
+      "name": ["Ramp", "Window"],
+      "weapon": "weapon_smokegrenade",
+      "position": [640.95324707031, 443.99783325195, -526.70977783203],
+      "viewangles": [12.8451795578, -70.143447875977],
+      "grenade": {
+        "run": 20
+      }
+    },
+    {
+      "name": ["Ramp", "Dark"],
+      "weapon": "weapon_molotov",
+      "position": [819.93542480469, 95.61572265625, -639.96875],
+      "viewangles": [8.1151208877563, -90.493545532227]
+    },
+    {
+      "name": ["Outside", "Cross"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1492.9942626953, -1176.0333251953, -415.9690246582],
+      "viewangles": [-1.5096880197525, -135.15171813965],
+      "grenade": {
+        "run": 30
+      }
+    },
+    {
+      "name": ["Heaven", "Door"],
+      "weapon": "weapon_molotov",
+      "position": [1049.9868164063, -374.57553100586, -127.96875],
+      "viewangles": [-1.6141042709351, -118.35347747803],
+      "grenade": {
+        "run": 20
+      }
+    },
+    {
+      "name": ["Heaven", "Hut"],
+      "weapon": "weapon_molotov",
+      "position": [1160.4079589844, -316.04644775391, -127.96875],
+      "viewangles": [15.592837333679, -143.91871643066],
+      "grenade": {
+        "run": 20
+      }
+    },
+    {
+      "name": ["Heaven", "Hut"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1259.96875, -316.03125, -127.96875],
+      "viewangles": [-3.2415626049042, -150.2873840332]
+    },
+    {
+      "name": ["Admin", "Trophy"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1043.8448486328, 21.810163497925, -415.96875],
+      "viewangles": [-3.905011177063, 172.71336364746],
+      "grenade": {
+        "run": 25
+      }
+    },
+    {
+      "name": ["Outside", "HeavenWindowBreak"],
+      "weapon": "weapon_flashbang",
+      "position": [49.980506896973, -1413.7280273438, -89.96875],
+      "viewangles": [-20.794473648071, 48.124069213867]
+    },
+    {
+      "name": ["Ramp", "Trophy"],
+      "weapon": "weapon_hegrenade",
+      "position": [737.42919921875, 46.903968811035, -415.96875],
+      "viewangles": [-6.5900821685791, 171.64985656738],
+      "grenade": {
+        "run": 28
+      }
+    },
+    {
+      "name": ["Silo", "Heaven"],
+      "weapon": "weapon_smokegrenade",
+      "position": [59.74946975708, -1425.7344970703, -89.96875],
+      "viewangles": [-21.440027236938, 49.198337554932]
+    },
+    {
+      "name": ["Observation", "Back Reactor"],
+      "weapon": "weapon_molotov",
+      "position": [1206.7014160156, -373.03125, -639.96875],
+      "viewangles": [0.42000776529312, -133.48931884766],
+      "grenade": {
+        "run": 28
+      }
+    },
+    {
+      "name": ["Ramp", "Blue Box"],
+      "weapon": "weapon_molotov",
+      "position": [481.55606079102, 56.735778808594, -639.96875],
+      "viewangles": [-9.4337348937988, -44.093673706055],
+      "grenade": {
+        "run": 28,
+        "run_yaw": -90
+      }
+    },
+    {
+      "name": ["Admin", "Trophy"],
+      "weapon": "weapon_molotov",
+      "position": [959.77435302734, 36.039863586426, -415.96875],
+      "viewangles": [-8.3353176116943, 172.95916748047],
+      "grenade": {
+        "run": 84
+      }
+    },
+    {
+      "name": ["Ramp", "Trophy"],
+      "weapon": "weapon_flashbang",
+      "position": [801.38250732422, 52.942001342773, -415.96875],
+      "viewangles": [-5.2542476654053, 172.93524169922],
+      "grenade": {
+        "run": 28
+      }
+    }
+  ]
+}
