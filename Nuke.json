@@ -1,4 +1,12 @@
 {
+	"name": "UPWA",
+	"description": "Helper", 
+	"update_timestamp": 1611966609 , 
+	"url": "https://raw.githubusercontent.com/UPWA/grenade-helper/main/Nuke.json",
+	"locations": {
+		"de_nuke": [
+
+{
   "de_nuke": [
     {
       "name": ["Outside", "Garage"],
